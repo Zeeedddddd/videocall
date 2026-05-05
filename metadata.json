@@ -1,0 +1,6 @@
+{
+  "name": "DeepFocus AI",
+  "description": "An advanced AI-powered video calling interface that reflects and reacts to user movements and expressions in real-time.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["AI Video Analysis", "Real-time Interactions"]
+}
